@@ -57,7 +57,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Analyzer Include="..\packages\FluentAssertions.Analyzers.0.26.0\analyzers\dotnet\cs\FluentAssertions.Analyzers.dll" />
