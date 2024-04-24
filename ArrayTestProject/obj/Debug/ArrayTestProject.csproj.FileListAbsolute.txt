@@ -1,0 +1,7 @@
+C:\Pradeep\Spectrum Analyzer\Jenk_Jira_Git_Org\Jenkin\ArrayTestProject\bin\Debug\ArrayTestProject.exe.config
+C:\Pradeep\Spectrum Analyzer\Jenk_Jira_Git_Org\Jenkin\ArrayTestProject\bin\Debug\ArrayTestProject.exe
+C:\Pradeep\Spectrum Analyzer\Jenk_Jira_Git_Org\Jenkin\ArrayTestProject\bin\Debug\ArrayTestProject.pdb
+C:\Pradeep\Spectrum Analyzer\Jenk_Jira_Git_Org\Jenkin\ArrayTestProject\obj\Debug\ArrayTestProject.csproj.SuggestedBindingRedirects.cache
+C:\Pradeep\Spectrum Analyzer\Jenk_Jira_Git_Org\Jenkin\ArrayTestProject\obj\Debug\ArrayTestProject.csproj.CoreCompileInputs.cache
+C:\Pradeep\Spectrum Analyzer\Jenk_Jira_Git_Org\Jenkin\ArrayTestProject\obj\Debug\ArrayTestProject.exe
+C:\Pradeep\Spectrum Analyzer\Jenk_Jira_Git_Org\Jenkin\ArrayTestProject\obj\Debug\ArrayTestProject.pdb
